@@ -43,7 +43,7 @@ body {
 .banner-panel {
     width: 100%;
     height: 100%;
-    background-image: url('/media/P9060043.JPG');
+    /* background-image: url('/media/P9060043.JPG'); */
     background-size: cover;
     background-position: center;
 }
